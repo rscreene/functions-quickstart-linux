@@ -1,0 +1,18 @@
+{
+  "name": "functest89",
+  "version": "0.0.1",
+  "description": "Drum Microservices",
+  "author": "Drum Technologies Ltd <support@thisisdrum.com>",
+  "license": "UNLICENSED",
+  "repository": "git@github.com:DrumTechnologiesLtd/drum-microservices.git",
+  "dependencies": {
+    "azure-storage": "^2.7.0",
+    "canvas": "^1.6.10",
+    "fabric": "^2.2.2",
+    "ioredis": "^3.2.2",
+    "request": "^2.83.0",
+    "rimraf": "^2.6.2",
+    "urlsafe-base64": "^1.0.0"
+  },
+  "devDependencies": {}
+}
